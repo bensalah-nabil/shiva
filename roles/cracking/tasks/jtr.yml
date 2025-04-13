@@ -8,7 +8,7 @@
       depth: 1
       dest: /tmp/jtr
       force: yes
-      repo: https://github.com/magnumripper/JohnTheRipper.git
+      repo: https://github.com/openwall/john.git
       version: bleeding-jumbo
 
   - name: 'jtr : install requirements'
